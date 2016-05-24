@@ -1,3 +1,0 @@
-let p= require('./my.js')
-let result = p.parse();
-
