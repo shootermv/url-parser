@@ -1,0 +1,2 @@
+http://www.cnn.com/index.html
+http://my-host:8080/my-dir/index.html
